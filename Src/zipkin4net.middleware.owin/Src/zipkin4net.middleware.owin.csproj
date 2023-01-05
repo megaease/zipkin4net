@@ -9,7 +9,7 @@
     <Copyright>Criteo</Copyright>
     <Owners>Criteo</Owners>
     <Description>Owin middleware for zipkin4net</Description>
-    <PackageVersion>1.1.0</PackageVersion>
+    <PackageVersion>1.5.0-megaease</PackageVersion>
     <PackageTags>Owin;Zipkin4net;Zipkin;Tracer;Tracing;Criteo</PackageTags>
     <GenerateAssemblyTitleAttribute>false</GenerateAssemblyTitleAttribute>
     <GenerateAssemblyDescriptionAttribute>false</GenerateAssemblyDescriptionAttribute>
