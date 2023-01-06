@@ -3,15 +3,18 @@
   <PropertyGroup>
     <TargetFrameworks>netstandard1.6;net461</TargetFrameworks>
     <AssemblyName>zipkin4net.middleware.aspnetcore</AssemblyName>
-    <PackageId>zipkin4net.middleware.aspnetcore</PackageId>
+    <PackageId>megaease.zipkin4net.middleware.aspnetcore</PackageId>
     <Description>Asp.net core middleware for zipkin4net</Description>
     <Copyright>Copyright 2017, Criteo</Copyright>
-    <VersionPrefix>1.5.0-megaease</VersionPrefix>
+    <VersionPrefix>1.5.0</VersionPrefix>
     <Authors>Criteo</Authors>
     <PackageTags>Zipkin;Tracer;Tracing;Criteo;Asp.net core</PackageTags>
     <PackageReleaseNotes>Asp.net core middleware for zipkin4net</PackageReleaseNotes>
-    <PackageProjectUrl>https://github.com/openzipkin/zipkin4net</PackageProjectUrl>
-    <PackageLicenseUrl>https://github.com/openzipkin/zipkin4net/blob/master/LICENSE</PackageLicenseUrl>
+    <!-- <OutputType>Exe</OutputType> -->
+    <Company>GitHub</Company>
+    <PackageDescription>This package adds an zipkin4net!</PackageDescription>
+    <PackageProjectUrl>https://github.com/observeralone/zipkin4net</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/observeralone/zipkin4net/blob/master/LICENSE</PackageLicenseUrl>
   </PropertyGroup>
 
   <ItemGroup>

@@ -3,13 +3,13 @@
   <PropertyGroup>
     <TargetFrameworks>net451</TargetFrameworks>
     <AssemblyName>zipkin4net.middleware.owin</AssemblyName>
-    <PackageId>zipkin4net.middleware.owin</PackageId>
+    <PackageId>megaease.zipkin4net.middleware.owin</PackageId>
     <Title>zipkin4net.middleware.owin</Title>
     <Authors>Criteo</Authors>
     <Copyright>Criteo</Copyright>
     <Owners>Criteo</Owners>
     <Description>Owin middleware for zipkin4net</Description>
-    <PackageVersion>1.5.0-megaease</PackageVersion>
+    <PackageVersion>1.5.0</PackageVersion>
     <PackageTags>Owin;Zipkin4net;Zipkin;Tracer;Tracing;Criteo</PackageTags>
     <GenerateAssemblyTitleAttribute>false</GenerateAssemblyTitleAttribute>
     <GenerateAssemblyDescriptionAttribute>false</GenerateAssemblyDescriptionAttribute>
@@ -20,8 +20,11 @@
     <GenerateAssemblyVersionAttribute>false</GenerateAssemblyVersionAttribute>
     <GenerateAssemblyFileVersionAttribute>false</GenerateAssemblyFileVersionAttribute>
     <PackageTags>Zipkin;Tracer;Tracing;Criteo;zipkin4net;owin</PackageTags>
-    <PackageProjectUrl>https://github.com/openzipkin/zipkin4net</PackageProjectUrl>
-    <PackageLicenseUrl>https://github.com/openzipkin/zipkin4net/blob/master/LICENSE</PackageLicenseUrl>
+    <!-- <OutputType>Exe</OutputType> -->
+    <Company>GitHub</Company>
+    <PackageDescription>This package adds an zipkin4net!</PackageDescription>
+    <PackageProjectUrl>https://github.com/observeralone/zipkin4net</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/observeralone/zipkin4net/blob/master/LICENSE</PackageLicenseUrl>
   </PropertyGroup>
 
   <ItemGroup>
